@@ -8,5 +8,6 @@
     - [It's dangerous to go alone, take this: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"](./intro/bof/bof.md)
         - [After all... why not? Why shouldn't I return to win?](./intro/bof/ret2win.md)
         - [Let me execute. LET ME EXECUTE!!!](./intro/bof/shellcode.md)
+        - [You shall n̶o̶t̶ return!](./intro/bof/rop.md)
 - [But then defenses came, and with defenses came new attacks](./defenses/intro.md)
 
